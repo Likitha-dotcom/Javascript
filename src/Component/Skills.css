@@ -1,0 +1,9 @@
+span{
+    text-transform: capitalize;
+    font-weight: bold;
+}
+.tlist{
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: capitalize;
+}
