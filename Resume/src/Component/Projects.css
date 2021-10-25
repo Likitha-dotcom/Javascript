@@ -1,0 +1,4 @@
+.pname,.ptech,.desc{
+    text-transform: capitalize;
+    font-weight: bold;
+}
